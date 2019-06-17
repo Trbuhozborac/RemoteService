@@ -1,0 +1,6 @@
+C:\Users\I7\Documents\Visual Studio 2017\Projects\Remote Service\IOpetRemotingService\bin\Debug\IOpetRemotingService.dll
+C:\Users\I7\Documents\Visual Studio 2017\Projects\Remote Service\IOpetRemotingService\bin\Debug\IOpetRemotingService.pdb
+C:\Users\I7\Documents\Visual Studio 2017\Projects\Remote Service\IOpetRemotingService\obj\Debug\IOpetRemotingService.csprojAssemblyReference.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\Remote Service\IOpetRemotingService\obj\Debug\IOpetRemotingService.csproj.CoreCompileInputs.cache
+C:\Users\I7\Documents\Visual Studio 2017\Projects\Remote Service\IOpetRemotingService\obj\Debug\IOpetRemotingService.dll
+C:\Users\I7\Documents\Visual Studio 2017\Projects\Remote Service\IOpetRemotingService\obj\Debug\IOpetRemotingService.pdb
